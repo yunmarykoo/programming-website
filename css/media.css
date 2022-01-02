@@ -1,0 +1,286 @@
+@media screen and (max-width:1828px) {
+    .topHeader {
+        display: none;
+    }
+}
+
+@media screen and (max-width:1800px){
+    main iframe {
+        padding-left: 150px;
+    }
+}
+
+@media screen and (max-width:1724px){
+    main .part1 h1 {
+        font-size: 35px;
+    }
+    main .part1 p {
+        font-size: 20px;
+    }
+    main .languages h1 {
+        font-size: 60px;
+    }
+    main .part2 .rightPart2 h1 {
+        font-size: 30px;
+    }
+    main .part2 .rightPart2 p {
+        font-size: 20px;
+        padding-top: 30px;
+    }
+    main .part3 h1 {
+        font-size: 50px;
+    }
+    main .answer h1 {
+        font-size: 40px;
+    }
+    main .answer p {
+        font-size: 25px;
+    }
+    main .answer .question {
+        font-size: 35px;
+    }
+}
+
+@media screen and (max-width:1675px){
+    main iframe {
+        width: 1300px;
+        height: 700px;
+    }
+}
+
+@media screen and (max-width:1500px){
+    main iframe {
+        width: 1200px;
+        height: 600px;
+    }
+}
+
+@media screen and (max-width:1400px){
+    main .welcome h1 {
+        font-size: 35px;
+    }
+    main .welcome p {
+        font-size: 20px;
+    }
+    main .start .startText h1 {
+        font-size: 25px;
+    }
+    main .part3 .grid {
+        grid-auto-rows: 500px;
+    }
+}
+
+@media screen and (max-width:1360px){
+    main iframe {
+        width: 1000px;
+        height: 600px;
+    }
+    main .part2 .leftPart2 img {
+        height: 700px;
+        
+    }
+    main .part2 .rightPart2 {
+        padding-top: 100px;
+    }
+}
+
+@media screen and (max-width:1170px){
+    main iframe {
+        width: 800px;
+        height: 400px;
+    }
+    main .part3 .grid {
+        grid-auto-rows: 400px;
+    }
+}
+
+@media screen and (max-width:1083px){
+    main .welcome p {
+        text-align: center;
+
+    }
+    main .part1 {
+        width: 80%;
+        margin: auto;
+    }
+    main .part3 h1 {
+        font-size: 30px;
+    }
+    main .answer {
+        margin-top: 200px;
+    }
+}
+
+@media screen and (max-width:954px){
+    main iframe {
+        padding-left: 50px;
+        margin-top: 100px;
+    }
+}
+
+@media screen and (max-width:908px){
+    main .welcome {
+        width: 70%;
+        margin: auto;
+        text-align: center;
+    }
+    main .languages h1{
+        font-size: 35px;
+    }
+    main .answer{
+        width: 90%;
+        margin: auto;
+    }
+    main .part3 .grid {
+        grid-auto-rows: 200px;
+    }
+    main .part3 h1 {
+        width: 80%;
+        margin: auto;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width:864px){
+    main iframe {
+        width: 700px;
+        padding-left: 70px;
+    }
+    main .answer h1 {
+        font-size: 40px;
+    }
+    main .answer p {
+        font-size: 18px;
+    }
+    main .answer .question {
+        font-size: 25px;
+    }
+}
+
+@media screen and (max-width:772px){
+    main .start .startText{
+        width: 500px;
+    }
+    main iframe {
+        width: 600px;
+        
+    }
+    main .part2 .rightPart2 h1 {
+        font-size: 20px;
+    }
+    main .part2 .rightPart2 p {
+        font-size: 1rem;
+    }
+    main .part2 .leftPart2 img {
+        height: 500px;
+    }
+}
+
+@media screen and (max-width:715px){
+    main .answer h1 {
+        font-size: 30px;
+    }
+}
+
+@media screen and (max-width:674px){
+    main iframe {
+        width: 500px;
+    }
+}
+
+@media screen and (max-width: 574px){
+    main iframe {
+        padding-left: 30px;
+    }
+}
+
+@media screen and (max-width:530px){
+    main iframe {
+        width: 450px;
+    }
+    main .part2 {
+        flex-wrap: wrap;
+    }
+    main .part2 div {
+        width: 100%;
+    }
+    main .start .startText {
+        width: 400px;
+    }
+}
+
+@media screen and (max-width:487px){
+    main iframe {
+        width: 400px;
+    }
+}
+
+@media screen and (max-width:436px){
+    main .part1 h1 {
+        font-size: 25px;
+    }
+    main .start .startText {
+        width: 300px;
+    }
+    main .start .startText h1 {
+        font-size: 20px;
+    }
+    main .languages {
+        margin-top: 50px;
+    }
+    main iframe {
+        width: 350px;
+        height: 200px;
+        padding-left: 50px;
+    }
+}
+
+@media screen and (max-width:399px){
+    main .welcome h1 {
+        font-size: 20px;
+    }
+    main .welcome p {
+        font-size: 1rem;
+    }
+    main .start .startText h1 {
+        font-size: 16px;
+    }
+    main iframe {
+        padding-left: 20px;
+    }
+    main .part3 .grid {
+        grid-auto-rows: 170px;
+    }
+    main .part3 h1 {
+        font-size: 25px;
+        width: 95%;
+    }
+
+}
+
+@media screen and (max-width:375px){
+    main .part1 h1{
+        font-size: 23px;
+    }
+    main .part1 p {
+        font-size: 16px;
+    }
+    main iframe {
+        width: 300px;
+    }
+    main .languages h1 {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 343px){
+    main .answer h1 {
+        font-size: 20px;
+    }
+    main .answer p {
+        font-size: 14px;
+    }
+    main .answer .question {
+        font-size: 1rem;
+    }
+}
