@@ -180,6 +180,9 @@
     main .answer h1 {
         font-size: 30px;
     }
+    footer h1 {
+        font-size: 50px;
+    }
 }
 
 @media screen and (max-width:674px){
@@ -206,6 +209,12 @@
     }
     main .start .startText {
         width: 400px;
+    }
+    footer h1 {
+        font-size: 30px;
+    }
+    footer ul li a {
+        font-size: 20px;
     }
 }
 
