@@ -245,6 +245,10 @@
         height: 200px;
         padding-left: 50px;
     }
+
+    footer ul li a {
+        font-size: 1rem;
+    }
 }
 
 @media screen and (max-width:399px){
@@ -266,9 +270,6 @@
     main .part3 h1 {
         font-size: 25px;
         width: 95%;
-    }
-    footer ul li a {
-        font-size: 1rem;
     }
 
 }
