@@ -222,6 +222,9 @@
     main iframe {
         width: 400px;
     }
+    footer ul li {
+        padding: 0 15px;
+    }
 }
 
 @media screen and (max-width:436px){
@@ -263,6 +266,9 @@
     main .part3 h1 {
         font-size: 25px;
         width: 95%;
+    }
+    footer ul li a {
+        font-size: 1rem;
     }
 
 }
