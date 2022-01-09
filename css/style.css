@@ -36,6 +36,7 @@ header .topHeader ul li:hover {
 }
 
 main {
+  padding-bottom: 40px;
   background: black;
   position: relative;
 }
@@ -219,6 +220,44 @@ main .part3 .card10 {
   color: green;
   font-size: 40px;
   font-weight: bold;
+}
+
+hr {
+  margin: 0;
+}
+
+footer {
+  padding-top: 40px;
+  background: black;
+  width: 100%;
+  padding-bottom: 30px;
+}
+footer h1 {
+  text-align: center;
+  color: white;
+  font-size: 70px;
+  margin: 0;
+  padding: 30px 0 30px 0;
+}
+footer p {
+  text-align: center;
+  color: white;
+  margin: 0;
+  padding: 10px 0;
+}
+footer ul {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  padding-top: 40px;
+}
+footer ul li {
+  padding: 0 30px;
+}
+footer ul li a {
+  color: green;
+  text-shadow: 0 0 10px green;
+  font-size: 30px;
 }
 
 /*# sourceMappingURL=style.css.map */

@@ -37,6 +37,7 @@ header {
 }
 
 main {
+    padding-bottom: 40px;
     background: black;
     position: relative;
     .welcome {
@@ -227,3 +228,41 @@ main {
         }
     }
 
+hr {
+    margin: 0;
+}
+
+footer {
+    padding-top: 40px;
+    background: black;
+    width: 100%;
+    padding-bottom: 30px;
+    h1 {
+        text-align: center;
+        color: white;
+        font-size: 70px;
+        margin: 0;
+        padding: 30px 0 30px 0;
+    }
+    p {
+        text-align: center;
+        color: white;
+        margin: 0;
+        padding: 10px 0;
+    }
+    ul {
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        padding-top: 40px;
+        li {
+            padding: 0 30px;
+            a {
+                color: green;
+                text-shadow: 0 0 10px green;
+                font-size: 30px;
+            }
+
+        }
+    }
+}
